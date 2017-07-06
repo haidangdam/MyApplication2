@@ -1,0 +1,7 @@
+#Wed Jul 05 15:41:45 ICT 2017
+base.0=/Users/haidangdam/new_app/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3f08fadaad6418c65691ad554b611fb243d304b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/haidangdam/new_app/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_347f6c15446b18e029b5b6dd389b237b3ad228b5/classes.dex
+base.1=/Users/haidangdam/new_app/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_347f6c15446b18e029b5b6dd389b237b3ad228b5
+file.0=/Users/haidangdam/new_app/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a3f08fadaad6418c65691ad554b611fb243d304b/classes.dex

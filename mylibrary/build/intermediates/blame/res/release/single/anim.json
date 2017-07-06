@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/res/anim/abc_popup_enter.xml"
+    }
+]

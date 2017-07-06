@@ -1,0 +1,89 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:3:3-49
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haidangdam/.android/build-cache/c101afd0a9c385a2242b92a899198b69769d0af2/output/AndroidManifest.xml:9:5-20
+MERGED from [MyApplication2:mylibrary:unspecified] /Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/haidangdam/.android/build-cache/440a5584c9a8f208659db4741e36958913ef1102/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/haidangdam/.android/build-cache/208ca311830d179ceab33dbb265e736b7690139a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/haidangdam/.android/build-cache/a1331b9fc1dbc7abae74192d770360d50febca5f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/haidangdam/.android/build-cache/51b07c26819a597e1c564c4c14ce275e1d946a8b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/haidangdam/.android/build-cache/c1dad9c3caa1efb8c84337cfd2d3e39e81346eb0/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/78dbfd3df7730fa2beb0b31702c5fe75124087dc/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/b353289d792cc0b38d337e1719f224d363138f19/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/haidangdam/.android/build-cache/04901529ce409308b22756213f3877114de75f7e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:8:5-37
+	android:supportsRtl
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:10:5-31
+	android:roundIcon
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:9:5-50
+	android:allowBackup
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:6:5-31
+	android:icon
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:7:5-39
+	android:theme
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:11:5-36
+activity#com.example.haidangdam.myapplication.MainActivity
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:12:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/haidangdam/.android/build-cache/c101afd0a9c385a2242b92a899198b69769d0af2/output/AndroidManifest.xml:5:5-7:41
+MERGED from [MyApplication2:mylibrary:unspecified] /Users/haidangdam/new_app/MyApplication2/mylibrary/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /Users/haidangdam/.android/build-cache/440a5584c9a8f208659db4741e36958913ef1102/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/haidangdam/.android/build-cache/208ca311830d179ceab33dbb265e736b7690139a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/haidangdam/.android/build-cache/a1331b9fc1dbc7abae74192d770360d50febca5f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/haidangdam/.android/build-cache/51b07c26819a597e1c564c4c14ce275e1d946a8b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/haidangdam/.android/build-cache/c1dad9c3caa1efb8c84337cfd2d3e39e81346eb0/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/78dbfd3df7730fa2beb0b31702c5fe75124087dc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/b353289d792cc0b38d337e1719f224d363138f19/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/haidangdam/.android/build-cache/04901529ce409308b22756213f3877114de75f7e/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/haidangdam/new_app/MyApplication2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/haidangdam/.android/build-cache/440a5584c9a8f208659db4741e36958913ef1102/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/haidangdam/.android/build-cache/208ca311830d179ceab33dbb265e736b7690139a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/haidangdam/.android/build-cache/a1331b9fc1dbc7abae74192d770360d50febca5f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/haidangdam/.android/build-cache/51b07c26819a597e1c564c4c14ce275e1d946a8b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/haidangdam/.android/build-cache/c1dad9c3caa1efb8c84337cfd2d3e39e81346eb0/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/78dbfd3df7730fa2beb0b31702c5fe75124087dc/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/haidangdam/.android/build-cache/b353289d792cc0b38d337e1719f224d363138f19/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/haidangdam/.android/build-cache/04901529ce409308b22756213f3877114de75f7e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /Users/haidangdam/.android/build-cache/a3510a98d1899fc33a0cdaf75639190908bd96ad/output/AndroidManifest.xml:26:9-47
